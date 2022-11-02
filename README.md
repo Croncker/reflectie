@@ -13,9 +13,9 @@
  * waarover zou ik nog meer willen weten?
 
  ik zou meer willen weten over github website hoe je alles via de website doet want volgends mij is dat makkelijker
+
 =======
 
-<<<<<<< HEAD
 ## Lucca Van Soest
 
  * Wat heb ik met deze lessen nieuw gelerd?
